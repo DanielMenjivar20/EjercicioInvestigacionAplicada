@@ -1,0 +1,35 @@
+{
+  "síntomas": {
+    "dolor de cabeza": "Te recomiendo visitar a un neurólogo o un médico general.",
+    "molestias al respirar": "Consulta con un neumólogo lo antes posible.",
+    "fiebre alta": "Si llevas más de 3 días con fiebre alta, acude a un médico general inmediatamente."
+  },
+  "especialidades": {
+    "médico general": "Un médico general puede ayudarte con problemas comunes y derivarte a un especialista.",
+    "internista": "Un internista trata enfermedades internas complejas de adultos.",
+    "alergias": "Debes consultar con un alergólogo.",
+    "dermatólogo": "Consulta a un dermatólogo si tienes problemas con la piel, uñas o cabello."
+  },
+  "servicios": {
+    "horarios": "La clínica atiende de lunes a viernes de 7:00 a.m. a 6:00 p.m.",
+    "agendar cita": "Puedes agendar una cita llamando al 123-456-789 o en nuestra página web.",
+    "urgencias": "Sí, la clínica atiende urgencias médicas las 24 horas."
+  },
+  "prevención": {
+    "estrés": "Puedes hablar con uno de nuestros psicólogos agendando una cita.",
+    "chequeos": "Deberías hacerte chequeos de presión arterial, colesterol y examen físico anual.",
+    "nutrición": "Sí, ofrecemos asesoría nutricional y programas de control de peso."
+  },
+  "administrativo": {
+    "documentos": "Necesitas tu DUI, número de seguro y dirección actual para registrarte.",
+    "seguros": "Aceptamos seguros médicos privados. Consulta nuestra lista en la web.",
+    "historial": "Puedes solicitar tu historial en recepción o mediante la aplicación móvil."
+  },
+    "contacto": {
+        "teléfono": "Puedes llamarnos al 123-456-789.",
+        "hola": "¡Hola! ¿En qué puedo ayudarte hoy?",
+        "dirección": "Estamos ubicados en Calle Falsa 123, Ciudad.",
+        "direccion": "Estamos ubicados en Calle Falsa 123, Ciudad.",
+        "correo electrónico": "Nuestro correo es contacto@clinica.com"
+    }
+}
