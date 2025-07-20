@@ -2,34 +2,48 @@
   "síntomas": {
     "dolor de cabeza": "Te recomiendo visitar a un neurólogo o un médico general.",
     "molestias al respirar": "Consulta con un neumólogo lo antes posible.",
-    "fiebre alta": "Si llevas más de 3 días con fiebre alta, acude a un médico general inmediatamente."
+    "fiebre alta": "Si llevas más de 3 días con fiebre alta, acude a un médico general inmediatamente.",
+    "me duele la cabeza constantemente, ¿con qué especialista debería consultar?": "Te sugiero acudir con un neurólogo para una evaluación más detallada.",
+    "tengo molestias al respirar, ¿a quién debo acudir?": "Podrías consultar con un neumólogo o un médico general si es la primera vez."
   },
   "especialidades": {
     "médico general": "Un médico general puede ayudarte con problemas comunes y derivarte a un especialista.",
     "internista": "Un internista trata enfermedades internas complejas de adultos.",
     "alergias": "Debes consultar con un alergólogo.",
-    "dermatólogo": "Consulta a un dermatólogo si tienes problemas con la piel, uñas o cabello."
+    "dermatólogo": "Consulta a un dermatólogo si tienes problemas con la piel, uñas o cabello.",
+    "¿cuál es la diferencia entre un médico general y un internista?": "El médico general atiende problemas comunes, mientras que el internista trata enfermedades más complejas en adultos.",
+    "¿para temas de alergias, a qué especialista debo acudir?": "Debes acudir con un alergólogo, que es el especialista en alergias.",
+    "¿cuándo debo consultar a un dermatólogo?": "Cuando tengas problemas en la piel, uñas o cabello como acné, caída de cabello, manchas o irritaciones."
   },
   "servicios": {
     "horarios": "La clínica atiende de lunes a viernes de 7:00 a.m. a 6:00 p.m.",
     "agendar cita": "Puedes agendar una cita llamando al 123-456-789 o en nuestra página web.",
-    "urgencias": "Sí, la clínica atiende urgencias médicas las 24 horas."
+    "urgencias": "Sí, la clínica atiende urgencias médicas las 24 horas.",
+    "¿cuáles son los horarios de atención de la clínica?": "Atendemos de lunes a viernes, desde las 7:00 a.m. hasta las 6:00 p.m.",
+    "¿cómo agendo una cita médica?": "Puedes hacerlo llamando al 123-456-789 o agendando en línea desde nuestra página web.",
+    "¿se atienden urgencias médicas o solo consultas programadas?": "Sí, también atendemos urgencias médicas las 24 horas."
   },
   "prevención": {
     "estrés": "Puedes hablar con uno de nuestros psicólogos agendando una cita.",
     "chequeos": "Deberías hacerte chequeos de presión arterial, colesterol y examen físico anual.",
-    "nutrición": "Sí, ofrecemos asesoría nutricional y programas de control de peso."
+    "nutrición": "Sí, ofrecemos asesoría nutricional y programas de control de peso.",
+    "me siento muy estresado últimamente, ¿puedo hablar con un psicólogo?": "Claro, puedes agendar una cita con uno de nuestros psicólogos especializados.",
+    "¿qué chequeos médicos preventivos debo hacerme anualmente?": "Te recomendamos presión arterial, colesterol, glucosa y examen físico general.",
+    "¿la clínica ofrece servicios de nutrición o control de peso?": "Sí, contamos con nutricionistas que te ayudarán con planes alimenticios personalizados."
   },
   "administrativo": {
     "documentos": "Necesitas tu DUI, número de seguro y dirección actual para registrarte.",
     "seguros": "Aceptamos seguros médicos privados. Consulta nuestra lista en la web.",
-    "historial": "Puedes solicitar tu historial en recepción o mediante la aplicación móvil."
+    "historial": "Puedes solicitar tu historial en recepción o mediante la aplicación móvil.",
+    "¿qué documentos necesito para registrarme como nuevo paciente?": "Solo necesitas tu DUI, un número de seguro y una dirección actualizada.",
+    "¿la clínica acepta seguros médicos privados?": "Sí, trabajamos con varias aseguradoras. Consulta la lista completa en nuestra página web.",
+    "¿cómo puedo solicitar mi historial médico?": "Puedes pedirlo directamente en recepción o a través de la app móvil."
   },
-    "contacto": {
-        "teléfono": "Puedes llamarnos al 123-456-789.",
-        "hola": "¡Hola! ¿En qué puedo ayudarte hoy?",
-        "dirección": "Estamos ubicados en Calle Falsa 123, Ciudad.",
-        "direccion": "Estamos ubicados en Calle Falsa 123, Ciudad.",
-        "correo electrónico": "Nuestro correo es contacto@clinica.com"
-    }
+  "contacto": {
+    "teléfono": "Puedes llamarnos al 993-45888-789.",
+    "hola": "¡Hola! ¿En qué puedo ayudarte hoy?",
+    "dirección": "Estamos ubicados en Calle Falsa 123, Ciudad.",
+    "direccion": "Estamos ubicados en Calle Falsa 123, Ciudad.",
+    "correo electrónico": "Nuestro correo es contacto@clinica.com"
+  }
 }
