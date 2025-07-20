@@ -52,8 +52,8 @@ const Chatbot = () => {
         </div>
         <div
           ref={chatRef}
-          className="card-body bg-light"
-          style={{ height: "350px", overflowY: "auto" }}
+          className="card-body"
+          style={{ height: "350px", overflowY: "auto", backgroundColor: "#d9fff1" }}
         >
           {historial.length === 0 && (
             <div className="text-center text-muted my-5">
