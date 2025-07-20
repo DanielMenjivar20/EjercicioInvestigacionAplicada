@@ -48,7 +48,7 @@ const Chatbot = () => {
     <div className="container" style={{ maxWidth: 500 }}>
       <div className="card shadow-lg">
         <div className="card-header bg-primary text-white text-center">
-          <h4 className="mb-0">🤖 Asistente Médico Virtual</h4>
+          <h4 className="mb-0">🤖 Asistente Médico Virtual a tu servicio</h4>
         </div>
         <div
           ref={chatRef}
