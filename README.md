@@ -27,7 +27,7 @@ useEffect(() => {
 
 Se ahorro tiempo en ciertas partes al sugerir estructuras de efectos o diseños usando bootstrap sin tener que buscar en internet
 
-## Reflexión crítica aplicada a tu caso
+## Reflexión crítica aplicada al caso de uso
 
 Un riesgo claro del uso de copilot es el uso excesivo del mismo ya que se podria solo copiar y pegar código sin entenderlo realmente, 
 en ocasiones copilot da respuestas erroneas como condiciones mal estructuradas
