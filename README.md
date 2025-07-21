@@ -3,10 +3,14 @@
 
 ## Pasos para instalar y ejecutar la aplicación
 
--Clona o descarga la carpeta del repositorio chatbotclinica
+-Clona o descarga la carpeta del repositorio chatbotclinica.
+
 -Abre la terminal dentro de esa carpeta.
+
 -Instala las dependencias necesarias usando npm install
+
 -Ejecutar la aplicación con comando npm run dev
+
 -Una vez ejecutado solo accede a localhost:3000 desde un navegador para empezar a conversar con el chatbot
 
 ## Uso de Copilot
